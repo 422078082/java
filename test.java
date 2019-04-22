@@ -1,1 +1,8 @@
-323232
+public test {
+  
+  
+  public static void main(){
+    
+    
+  }
+}
